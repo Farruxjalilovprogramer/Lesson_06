@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c1fe66f-791d-4f12-9da2-3338c3d87ed4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uy_ishlari.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_02/ClassRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_02/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_02/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_02/Working.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_04/Task_01/Premetri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_04/Task_02/Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_04/Task_03/Mashina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_04/Task_03/Telefon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_04/Task_03/Televizr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_04/Task_03/Texnika.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_04/Task_04/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_04/Task_04/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_04/Task_04/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_04/Task_04/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_05/Task_01/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_05/Task_01/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_05/Task_01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_05/Task_01/Techaer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_05/Task_02/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_05/Task_02/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_05/Task_02/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_05/Task_02/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_05/Task_02/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_05/Task_02/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_05/Task_02/Wild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_05/Task_03/Equipment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_05/Task_03/Malibu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_05/Task_03/Spark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_05/Task_03/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_05/Task_03/Texnika.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_05/Task_03/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_05/Task_03/WashingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_06/Task_01/BigInteger_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_06/Task_03/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_08/Task_01/Record.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_08/Task_01/Work.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_08/Task_02/Locatioin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_08/Task_02/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_09/Task_01/Clothes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_09/Task_01/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_09/Task_01/Size.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_09/Task_01/Work.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_09/Task_02/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_09/Task_02/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_09/Task_02/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Lesson_09/Task_02/Working.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Task_01/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Task_01/Task_02/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Task_01/Task_02/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Task_01/Task_02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Task_01/Task_02/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Task_01/Task_02/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Task_01/Task_02/Working.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Task_01/iphon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Task_01/iphon_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Task_01/iphon_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Task_01/redmi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1_2_M/Lesson_01/Task_01/samsung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_M/Lesson_01/Task_01/ProgrammingLanguage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_M/Lesson_01/Task_01/Work.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_M/Lesson_01/Task_02/NoFoundNumberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_M/Lesson_01/Task_02/Working.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_M/Lesson_01/Task_03/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_M/Lesson_01/Task_03/PersonNameCantBeBlankException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_M/Lesson_01/Task_03/QavatCantBeLessThanZeroException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_M/Lesson_01/Task_03/RangCantBeBlankException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_M/Lesson_01/Task_03/RoomCountCantBeLessThanTenException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_M/Lesson_01/Task_03/Working.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_M/Lesson_03/Task_01/Working.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_M/Lesson_03/Task_02/Working.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_M/Lesson_04/Task_01/W.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_M/Lesson_05/Task_01/Working.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_M/Lesson_05/Task_02/Working.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_M/Lesson_05/Tesk_3/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_M/Lesson_05/Tesk_3/Working.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_M/Lesson_06/Task_01/Working.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_M/Lesson_06/Task_02/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_M/Lesson_06/Task_02/Working.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_M/Lesson_08/Task_01/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_M/Lesson_08/Task_02/Enum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3_M/Lesson_08/Task_02/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_4_M/Lesson_06/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_4_M/Lesson_07/FileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_4_M/Lesson_07/FileWriter.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2fJpBBlW7Jox7drUwGswYNLq9l5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/IdeaProjects/Java_D/Restaurant0&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Uy_ishlari" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c1fe66f-791d-4f12-9da2-3338c3d87ed4" name="Changes" comment="" />
+      <created>1713528897292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713528897292</updated>
+    </task>
+    <servers />
+  </component>
+</project>
